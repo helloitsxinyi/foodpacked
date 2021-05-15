@@ -1,6 +1,8 @@
 # foodpacked-MERN
 CRUD shop webapp developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Deployed on Heroku at https://foodpacked.herokuapp.com
 
-About & purpose of developing the app to be added <br>
-How to use to be added <br>
-Screenshots & UI to be added <br>
+To be added:
+About & purpose of the app <br>
+Requirements, dependencies needed <br>
+How to use & set up on your own machine <br>
+Screenshots & UI <br>
